@@ -86,7 +86,7 @@ variable force_delete {
 variable bucket_name {
     description = "Name for the bucket to be created"
     type        = string
-    default     = "byok-encrypted-cos-bucket-example"
+    default     = "encrypted-cos-bucket-example"
 }
 
 variable cross_region_location {
