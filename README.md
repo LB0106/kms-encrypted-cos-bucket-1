@@ -1,4 +1,4 @@
-# KMS Encrypted Cross Region COS Bucket
+# IBM Cloud Object Storage bucket with encryption
 
 This module shows how to create a COS bucket encrypted with a KMS key.
 
