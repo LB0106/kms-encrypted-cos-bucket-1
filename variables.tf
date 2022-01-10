@@ -92,7 +92,7 @@ variable bucket_name {
 variable cross_region_location {
     description = "Location where the bucket will be provisioned. Currently this is only available in the US geo"
     type        = string
-    default     = "us"
+    default     = "eu"
 }
 
 variable bucket_storage_class {
